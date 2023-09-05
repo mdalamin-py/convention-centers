@@ -1,0 +1,64 @@
+.event-business{
+    font-size: 15px;
+    font-weight: 400;
+    color: #848199;
+}
+
+.business-description{
+    font-size: 15px;
+    font-weight: 400;
+    color: #848199;
+}
+
+.hot-btn{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    margin-top: -36px;
+}
+
+
+
+
+
+
+@media (min-width: 320px) and (max-width: 575.98px) {
+    .custom-container{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .hn-cls{
+        margin-left: 25px;
+        margin-top: -20px;
+    }
+    .des-pra{
+        margin-left: 25px;
+    }
+    .btn-ex{
+        margin-left: 25px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {}
+@media (min-width: 768px) and (max-width: 991.98px) {}
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+   
+}
+@media (min-width: 1400px) and (max-width: 1599.98px) {
+    .custom-container {
+        width: 1319.96px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+@media (min-width: 1600.98px) and (max-width: 5599.98px) {
+    .custom-container {
+        width: 1319.96px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .nav-links {
+        display: flex;
+    }
+}
